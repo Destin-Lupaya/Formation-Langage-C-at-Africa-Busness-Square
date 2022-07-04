@@ -1,0 +1,2 @@
+C:\Dev-Cpp\libexec\gcc\mingw32\3.4.2
+delete collecte2
